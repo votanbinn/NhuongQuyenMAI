@@ -1,0 +1,80 @@
+/* Reset */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Segoe UI", Roboto , sans-serif;
+  background-color: #f9f9f9;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+
+form#myForm:hover {
+  box-shadow: 0 16px 32px rgba(0, 0, 0, 0.12);
+}
+
+/* Form container */
+form#myForm {
+  background-color: transparent !important;
+  box-shadow: none !important;
+  border: none !important;
+  padding: 30px 0;
+  max-width: 460px;
+  width: 100%;
+  display: flex;
+  flex-direction: column;  /* Xếp dọc */
+  gap: 20px;              /* Khoảng cách giữa các input */
+}
+
+/* Input + Select */
+#myForm input,
+#myForm select {
+  background-color: transparent;
+  border: 2px solid #ffffff;
+  border-radius: 6px;
+  padding: 14px 16px;
+  font-size: 20px;       /* chữ to hơn */
+  font-weight: 1000;      /* chữ đậm */
+  color: #ffffff;
+  outline: none;
+  width: 80%;            /* giảm bớt chiều rộng để còn khoảng trắng 2 bên */ /* căn giữa input và margin dưới 20px */
+  display: block;
+  margin-left: 25%;        /* để margin auto căn giữa được */
+  box-sizing: border-box;
+  text-align: center;    /* chữ căn giữa trong input */
+}
+
+#myForm input::placeholder,
+#myForm select::placeholder {
+  color: #ffffff;                               /* Màu placeholder nhạt hơn */
+}
+
+#myForm input:focus,
+#myForm select:focus {
+  border-bottom-color: #005ecc;
+  outline: none;
+}
+
+/* Button */
+#myForm button {
+  width: 100%;
+  padding: 14px;
+  background-color: #ff0000;
+  color: white;
+  font-size: 18px;
+  font-weight: bold;
+  border: none;
+  border-radius: 6px;
+  margin-left: 18%;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+#myForm button:hover {
+  background-color: #cc0000;
+}

@@ -1,0 +1,22 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+nhuongquyen.amslink.edu.vn	TRUE	/b.resolvedLink	FALSE	1999999999	LADI_PAGE_VIEW	1
+nhuongquyen.amslink.edu.vn	TRUE	/b.resolvedLink	FALSE	1999999999	LADI_PAGE_VIEW_PATH	1
+nhuongquyen.amslink.edu.vn	TRUE	/schema.org	FALSE	1999999999	LADI_PAGE_VIEW	1
+nhuongquyen.amslink.edu.vn	TRUE	/schema.org	FALSE	1999999999	LADI_PAGE_VIEW_PATH	1
+nhuongquyen.amslink.edu.vn	TRUE	/signals	FALSE	1999999999	LADI_PAGE_VIEW	1
+nhuongquyen.amslink.edu.vn	TRUE	/signals	FALSE	1999999999	LADI_PAGE_VIEW_PATH	1
+nhuongquyen.amslink.edu.vn	TRUE	/POST	FALSE	1999999999	LADI_PAGE_VIEW	1
+nhuongquyen.amslink.edu.vn	TRUE	/POST	FALSE	1999999999	LADI_PAGE_VIEW_PATH	1
+nhuongquyen.amslink.edu.vn	TRUE	/c.dl	FALSE	1999999999	LADI_PAGE_VIEW	1
+nhuongquyen.amslink.edu.vn	TRUE	/c.dl	FALSE	1999999999	LADI_PAGE_VIEW_PATH	1
+nhuongquyen.amslink.edu.vn	TRUE	/c.rl	FALSE	1999999999	LADI_PAGE_VIEW	1
+nhuongquyen.amslink.edu.vn	TRUE	/c.rl	FALSE	1999999999	LADI_PAGE_VIEW_PATH	1
+nhuongquyen.amslink.edu.vn	TRUE	/a	FALSE	1999999999	LADI_PAGE_VIEW	1
+nhuongquyen.amslink.edu.vn	TRUE	/a	FALSE	1999999999	LADI_PAGE_VIEW_PATH	1
+nhuongquyen.amslink.edu.vn	TRUE	/d	FALSE	1999999999	LADI_PAGE_VIEW	1
+nhuongquyen.amslink.edu.vn	TRUE	/d	FALSE	1999999999	LADI_PAGE_VIEW_PATH	1
+nhuongquyen.amslink.edu.vn	TRUE	/	FALSE	1999999999	LADI_FORM_SUBMIT	0
+nhuongquyen.amslink.edu.vn	TRUE	/	FALSE	1999999999	LADI_CLIENT_ID	b1ea55b3-b40d-47d7-73d3-7a6974399ef1
+nhuongquyen.amslink.edu.vn	TRUE	/	FALSE	1999999999	LADI_DNS_CHECK	2025-05-13 06:55:05.147613512 +0000 UTC m=+11746151.220657697"
+
